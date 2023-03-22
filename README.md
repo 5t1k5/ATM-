@@ -1,2 +1,2 @@
 # ATM-
-withdrawing money with cards from the ATM 
+withdrawing money without cards from the ATM 
